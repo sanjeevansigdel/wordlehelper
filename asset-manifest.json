@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wordlehelper/static/css/main.073c9b0a.css",
+    "main.js": "/wordlehelper/static/js/main.a54d7fe1.js",
+    "static/js/787.405ebb77.chunk.js": "/wordlehelper/static/js/787.405ebb77.chunk.js",
+    "static/media/logo.svg": "/wordlehelper/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wordlehelper/index.html",
+    "main.073c9b0a.css.map": "/wordlehelper/static/css/main.073c9b0a.css.map",
+    "main.a54d7fe1.js.map": "/wordlehelper/static/js/main.a54d7fe1.js.map",
+    "787.405ebb77.chunk.js.map": "/wordlehelper/static/js/787.405ebb77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a54d7fe1.js"
+  ]
+}
