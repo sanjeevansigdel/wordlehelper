@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "13772acef176213d6abc",
+    "revision": "43355f387dacad9c324c",
     "url": "/wordlehelper/static/css/main.c86bc125.chunk.css"
   },
   {
-    "revision": "13772acef176213d6abc",
-    "url": "/wordlehelper/static/js/main.13772ace.chunk.js"
+    "revision": "43355f387dacad9c324c",
+    "url": "/wordlehelper/static/js/main.43355f38.chunk.js"
   },
   {
     "revision": "9eb8d3dfd3c7c6f43da7",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/wordlehelper/static/media/Roboto-Black.301fe70f.ttf"
   },
   {
-    "revision": "32a99b2fa82125b73e8a9c3f2d485ee5",
+    "revision": "083dd98fcfe225c6545b5a992e8bf985",
     "url": "/wordlehelper/index.html"
   }
 ];
