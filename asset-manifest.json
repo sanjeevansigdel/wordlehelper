@@ -1,7 +1,7 @@
 {
   "main.css": "/wordlehelper/static/css/main.c86bc125.chunk.css",
-  "main.js": "/wordlehelper/static/js/main.5f0d8afa.chunk.js",
-  "main.js.map": "/wordlehelper/static/js/main.5f0d8afa.chunk.js.map",
+  "main.js": "/wordlehelper/static/js/main.a2180fdc.chunk.js",
+  "main.js.map": "/wordlehelper/static/js/main.a2180fdc.chunk.js.map",
   "static/js/1.9eb8d3df.chunk.js": "/wordlehelper/static/js/1.9eb8d3df.chunk.js",
   "static/js/1.9eb8d3df.chunk.js.map": "/wordlehelper/static/js/1.9eb8d3df.chunk.js.map",
   "static/js/2.08e95ace.chunk.js": "/wordlehelper/static/js/2.08e95ace.chunk.js",
@@ -12,6 +12,6 @@
   "static/media/App.css": "/wordlehelper/static/media/Roboto-Black.301fe70f.ttf",
   "static/css/main.c86bc125.chunk.css.map": "/wordlehelper/static/css/main.c86bc125.chunk.css.map",
   "index.html": "/wordlehelper/index.html",
-  "precache-manifest.88240f172baff78e7cd650a792924ee3.js": "/wordlehelper/precache-manifest.88240f172baff78e7cd650a792924ee3.js",
+  "precache-manifest.fe77fe4f7ba81dae9369f4014b397e78.js": "/wordlehelper/precache-manifest.fe77fe4f7ba81dae9369f4014b397e78.js",
   "service-worker.js": "/wordlehelper/service-worker.js"
 }
